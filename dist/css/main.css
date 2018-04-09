@@ -1,0 +1,207 @@
+.logo {
+    background-color: #3c8dbc !important;
+}
+
+.navbar {
+    background: linear-gradient(to right, #3c8dbc, #8DC3E3);
+}
+
+.dropdown-menu {
+    right: auto !important;
+}
+
+.user-menu {
+    right: 0 !important;
+}
+
+.btn-search {
+    background: transparent;
+    color: #fff;
+}
+
+.input-group {
+    background-color: #8DC3E3;
+}
+
+.bg-blue-nav {
+    background-color: #8DC3E3;
+    border: none;
+    color: #fff;
+}
+
+.user-panel {
+    padding-top: 1rem !important;
+    padding-bottom: 4rem !important;
+    background: url('../img/shimurhuman_1x.png') center center no-repeat;
+    background-size: cover;
+}
+
+.content-wrapper {
+    padding-top: 1rem;
+}
+
+.etugas-frame {
+    background: url('../img/shimurhuman_1x.png') center center no-repeat;
+    background-size: cover;
+}
+
+.etugas-frame:hover {
+    transition: 1s;
+    box-shadow: 1px 1px 8px 0px #019757;
+}
+
+.etugas-frame > .title {
+    background: linear-gradient(to right, #019757, #8AE7BF);
+    line-height: 6rem;
+    color: #fff;
+    height: 6rem;
+    border-bottom: 0.2rem solid #019757;
+}
+
+.etugas-frame > .title > .text {
+    padding-left: 2rem;
+    font-size: 1.6rem;
+}
+
+.etugas-frame > .body > .list {
+    color: #fff;
+    font-size: 1.4rem;
+    padding-top: 1rem;
+    padding-bottom: 0.8rem;
+}
+
+.ide-frame {
+    background-color: #fff;
+    border: 0.1rem solid #e3e3e3;
+}
+
+.ide-frame:hover {
+    box-shadow: 1px 1px 8px 0px #e3e3e3;
+    transition: 1s;
+}
+
+.ide-frame > .title {
+    padding: 1rem;
+    font-size: 1.6rem;
+}
+
+.ide-frame > .title > .active {
+    color: #C4013C;
+}
+
+
+.ide-frame > .title > .item {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    cursor: pointer;
+}
+
+.ide-frame > .title > .item:hover {
+    font-weight: bold;
+    transition: .2s;
+}
+
+.ide-frame > .body {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.ide-frame > .body > .image > img {
+    border: 1px solid #e3e3e3;
+}
+
+.ide-frame > .body > .text > textarea {
+    width: 100%;
+    border: none;
+}
+
+.ide-frame > .footer {
+    border-top: 0.1rem solid #e3e3e3;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    padding-right: 1rem;
+}
+
+.color-green {
+    color: #019757;
+}
+
+.faq-terbaru {
+    background-color: #fff;
+    border: 0.1rem solid #e3e3e3;
+}
+
+.faq-terbaru:hover {
+    transition: 1s;
+    box-shadow: 1px 1px 8px 0px #e3e3e3;
+}
+
+.faq-terbaru > .title {
+    padding: 1rem;
+    color: #C4013C;
+}
+
+.faq-terbaru > .body {
+    padding: 1rem;
+}
+
+.informasi-frame {
+    background-color: #fff;
+    border: 0.1rem solid #e3e3e3;
+    margin-top: 2rem;
+}
+
+.informasi-frame > .title {
+    padding: 1rem;
+    border-bottom: 0.1rem solid #e3e3e3;
+    color: #C4013C;
+}
+.informasi-frame > .body {
+    padding: 1rem;
+}
+
+.informasi-frame > .body > .berita > .tanggal {
+    font-size: 1.2rem;
+}
+
+.informasi-frame > .body > .berita > .judul {
+    font-size: 1.4rem;
+    color: #C4013C;
+}
+
+.informasi-frame > .body > .berita > .keterangan {
+    font-size: 1.2rem;
+}
+.informasi-frame > .body > .berita > .download {
+    color: #999;
+}
+
+.status-frame {
+    background-color: #fff;
+    border: 0.1rem solid #e3e3e3;
+    margin-top: 2rem;
+}
+
+.status-frame > .title {
+    padding: 1rem;
+    border-bottom: 0.1rem solid #e3e3e3;
+}
+
+.status-frame > .body {
+    padding: 1rem;
+}
+
+.status-frame > .body > .item {
+    border-bottom: 0.1rem solid #e3e3e3;
+    padding: 1rem;
+}
+
+.nama {
+    color: #C4013C;
+    font-size: 1.6rem;
+}
+
+.tanggal {
+    color: #999;
+    font-size: 1.2rem;
+}
