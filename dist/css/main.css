@@ -227,3 +227,124 @@
 .absensi-materi > .body > ul {
     color: #fff;
 }
+
+.banner {
+    padding: 1rem;
+    background: linear-gradient(to right, #3c8dbc, #8DC3E3);
+}
+
+.banner:hover {
+    box-shadow: 1px 1px 8px 0px #3c8dbc;
+    transition: 1s;
+}
+
+.circle {
+    padding: 2rem;
+    border-radius: 50%;
+    background-color: #07154E;
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.banner > .col > .title {
+    color: #fff;
+    font-size: 1.6rem;    
+}
+
+.banner > .col > .body {
+    color: #fff;
+    font-size: 2.4rem;    
+}
+
+.banner > .col > .footer {
+    color: #fff;
+}
+
+.data-tugas {
+    border: 0.1rem solid #e3e3e3;
+    background-color: #fff;
+    margin-top: 2rem;
+}
+
+.data-tugas > .title {
+    padding: 1rem;
+    font-size: 1.6rem;
+    color: #C4013C;
+    border-bottom: 0.1rem solid #e3e3e3;
+}
+
+.data-tugas > .body {
+    padding: 1rem;
+}
+
+.label-lg {
+    padding: 1rem;
+    margin-top: 0.6rem;
+    float: left;
+}
+.data-tugas > .body > .item {
+    padding: 1rem;
+}
+
+.data-tugas > .body > .item > .col > .title {
+    color: #C4013C;
+    font-size: 1.6rem;
+}
+
+.status-mata-kuliah {
+    border: 0.1rem solid #e3e3e3;
+    background-color: #fff;
+}
+
+.status-mata-kuliah > .body {
+    padding: 1rem;
+}
+
+.status-mata-kuliah > .body > textarea {
+    width: 100%;
+    border: none;
+    height: 8rem;
+}
+
+.status-mata-kuliah > .footer {
+    padding: 1rem;
+}
+
+.pengumuman {
+    border: 0.1rem solid #e3e3e3;
+    background-color: #fff;
+    margin-top: 1rem;    
+}
+
+.pengumuman > .title {
+    padding: 1rem;
+    color: #C4013C;
+    font-size: 1.6rem;
+    border-bottom: 0.1rem solid #e3e3e3;    
+}
+
+.pengumuman > .body {
+    padding: 1rem;
+}
+
+.mahasiswa {
+    border: 0.1rem solid #e3e3e3;
+    background-color: #fff;
+    margin-top: 2rem;
+}
+
+.mahasiswa > .title {
+    padding: 1rem;
+    border-bottom: 0.1rem solid #e3e3e3;
+    font-size: 1.6rem;
+    color: #C4013C;
+}
+
+.mahasiswa > .body {
+    padding: 1rem;
+}
+
+.mahasiswa > .body > .item {
+    
+}
